@@ -1,4 +1,4 @@
-# run-buddy
+# run-buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -10,5 +10,8 @@ A website that offers fitness training services.
 ## Website
 https://colorgreycodes.github.io/run-buddy/
 
-## Contributions
+## Contribution
 Made with ❤️ by Anthony Winston
+
+
+### ©️2019 Run Buddy, Inc 
