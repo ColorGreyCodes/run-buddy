@@ -71,6 +71,14 @@ section {
 }
 
 /* Hero Style Start */
+.habits h2 {
+    color: #fce138;
+    font: bold;
+    margin: auto;
+    padding: 20px;
+    width: 500px;
+}
+
 .hero {
     background-image: url(./images/hero-bg.jpg);
     height: 600px;
@@ -85,6 +93,8 @@ section {
     padding: 20px;
     width: 500px;
     border: solid 3px #024e76;
+    border-radius: 15px;
+    opacity: 0.8;
     position: absolute;
     bottom: 120px;
     right: 140px;
@@ -113,6 +123,7 @@ h3 {
     color: #024e76;
     width: 100%;
     margin-bottom: 15px;
+    border-radius: 10px;
 }
 
 .hero-form label {
@@ -125,6 +136,7 @@ h3 {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
+    border-radius: 15px;
 }
 
 .intro {
